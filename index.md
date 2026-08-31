@@ -1,4 +1,4 @@
-# Gayeon Lee
+# Gayeon (Leah) Lee
 Clinical Psychology PhD Student at the University of Kansas
 ## About Me
 I'm a doctoral student in Clinical Psychology at the University of Kansas.
