@@ -8,3 +8,4 @@ My research interests include impulsivity, intolerance of uncertainty, and ecolo
 More info coming soon
 ## Contact
 gayeonlee@ku.edu
+linked in: https://www.linkedin.com/in/gayeon-lee-646943253/
