@@ -1,4 +1,4 @@
-[Home](/) | [Research](/research.html) | [CV](/CV.html) 
+[Home](/) | [Research](/research.html) | [CV](/cv.html) 
 # Gayeon (Leah) Lee
 Clinical Psychology PhD Student at the University of Kansas
 ## About Me
