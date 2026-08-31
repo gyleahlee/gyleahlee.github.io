@@ -1,0 +1,37 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Top banner */
+.page-header {
+  background-color: #536B66;
+  background-image: none;
+}
+
+/* Overall page */
+body {
+  background-color: #FCFBF8;
+  color: #333333;
+}
+
+/* Links */
+a {
+  color: #56706A;
+}
+
+a:hover {
+  color: #364A46;
+}
+
+/* Main content */
+.main-content {
+  color: #333333;
+}
+
+/* Headings */
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+  color: #3F5551;
+}
